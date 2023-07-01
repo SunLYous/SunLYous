@@ -6,6 +6,14 @@ I'm **Nahid Abbasov**, a student of the [Information Technologies and Programmin
 
 ![SunLYous trophy](https://github-profile-trophy.vercel.app/?username=SunLYous)
 
+## 🔗 &nbsp;Links
+
+[<img align="left" alt="SunLYous | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="SunLYous | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+
+[telegram]: https://t.me/SunLYouss 
+[instagram]: https://instagram.com/sunlyous
+
 ## 🧰 &nbsp;My toolbox
 
 
@@ -40,12 +48,3 @@ I'm **Nahid Abbasov**, a student of the [Information Technologies and Programmin
 [![GitHub Streak](https://streak-stats.demolab.com?user=SunLYous&theme=radical)](https://git.io/streak-stats)
 
 [![SunLYous's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SunLYous&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 🔗 &nbsp;Links
-
-[<img align="left" alt="SunLYous | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="SunLYous | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-
-[telegram]: https://t.me/SunLYouss 
-[instagram]: https://instagram.com/sunlyous
