@@ -9,6 +9,13 @@ I'm **Nahid Abbasov**, a student of the [Information Technologies and Programmin
 
 ## 🧰 &nbsp;My toolbox
 
+### &nbsp; &nbsp; &nbsp; 🔗 &nbsp;Links
+
+[<img align="left" alt="SunLYous | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="SunLYous | Instagram" width="60px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+
+[telegram]: https://t.me/SunLYouss 
+[instagram]: https://instagram.com/sunlyous
 
 ### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
 
